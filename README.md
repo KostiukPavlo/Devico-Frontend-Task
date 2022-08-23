@@ -9,8 +9,7 @@ $ node 2.object_revers_value.js
 3 task:
 $ node 3.array_matrix.js
 
-4 task:
-
+4 task: https://kostiukpavlo.github.io/Devico-Frontend-Task/
 
 5 task:
 $ node 5.worker.js
